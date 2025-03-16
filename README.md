@@ -21,23 +21,6 @@
     ```
 
 ## 使用方法
-1. 导入`numpy_creator`模块：
-    ```python
-    import numpy_creator as nc
-    ```
-2. 创建一个NumPy数组：
-    ```python
-    array = nc.create_array((3, 3), fill_value=0)
-    print(array)
-    ```
-3. 修改数组：
-    ```python
-    modified_array = nc.modify_array(array, new_value=1, position=(0, 0))
-    print(modified_array)
-    ```
-
-## 示例
-以下是一个完整的示例：
 ```python
 python numpy_creator 
 ```
