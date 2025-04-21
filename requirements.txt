@@ -1,0 +1,7 @@
+numpy
+PyQt5
+matplotlib
+pandas
+scipy
+networkx
+scikit-image
