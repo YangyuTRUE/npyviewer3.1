@@ -56,15 +56,15 @@ pip install -r requirements.txt
    - 点击"文件" → "打开"，或使用快捷键 <kbd>Ctrl</kbd>+<kbd>O</kbd>
    - 选择 NPY 或 CSV 文件
     
-   ![界面截图](image.png)
-   ![多维数据打开](image-1.png)
+   ![界面截图](img/image.png)
+   ![多维数据打开](img/image-1.png)
 
 3. **👁️ 切换视图模式**：
    - 点击"视图" → "表格视图" 或 "图像视图"
    - 图像视图下可以通过下拉菜单切换不同的颜色映射方案
   
-  ![表格视图](image-2.png)
-  ![图像视图](image-3.png)
+  ![表格视图](img/image-2.png)
+  ![图像视图](img/image-3.png)
 
 ### 🧩 高维数据操作
 
@@ -87,8 +87,8 @@ pip install -r requirements.txt
    - 点击"可视化"菜单选择所需的可视化类型
    - 根据当前数据的维度和形状，某些可视化选项可能不可用
   
-  ![3D点云](image-4.png)
-  ![时间序列](image-5.png)
+  ![3D点云](img/image-4.png)
+  ![时间序列](img/image-5.png)
 
 2. **🎭 图像视图颜色映射**：
    - 在图像视图模式下，从颜色映射下拉菜单选择不同的配色方案
