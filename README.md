@@ -35,7 +35,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YangyuTRUE/NPYViewer-3.1.git
+git clone https://github.com/YangyuTRUE/npyviewer3.1.git
 # 或下载解压压缩包
 cd NPYViewer-3.1
 
