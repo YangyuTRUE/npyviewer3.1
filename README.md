@@ -37,7 +37,7 @@
 # 克隆仓库
 git clone https://github.com/YangyuTRUE/npyviewer3.1.git
 # 或下载解压压缩包
-cd NPYViewer-3.1
+cd npyviewer3.1
 
 # 安装依赖
 pip install -r requirements.txt
